@@ -44,8 +44,8 @@ Welcome to my GitHub profile, where I turn mate 🧉 into code 💻. I'm not the
 
 ## 🔧 Technologies & Tools
 - **Languages**: HTML, CSS, JavaScript, TypeScript
-- **Back-end**: Node.js
-- **Other**: Git, Docker, SQL, REST APIs
+- **Back-end**: Node.js, Express.js, 
+- **Other**: Git, Docker, SQL, REST APIs, AWS, Azure, Google Cloud
 
 ## 🌟 Featured Repositories
 [![CRUD App](https://github-readme-stats.vercel.app/api/pin/?username=Ernees&repo=CRUD-version-pro&theme=radical)](https://github.com/Ernees/CRUD-version-pro)
