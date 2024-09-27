@@ -27,14 +27,6 @@ Here are some ideas to get you started:
 - **Back-end**: Node.js
 - **Other**: Git, Docker, SQL, REST APIs
 
-## 📊 GitHub Stats
-![Ernees GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ernees&show_icons=true&theme=radical)
-
-## 🌟 Featured Repositories
-[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=Ernees&repo=weather-app-js&theme=radical)](https://github.com/Ernees/weather-app-js)
-
-[![Another Repo](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=anotherrepo&theme=radical)](https://github.com/yourusername/anotherrepo)
-
 ## 📫 How to reach me
 - GitHub: [github.com/Ernees](https://github.com/Ernees)
 - LinkedIn: [linkedin.com/in/ErnestoHuerta]([https://linkedin.com/in/ErnestoHuerta](https://www.linkedin.com/in/ernesto-huerta-179853247/))
