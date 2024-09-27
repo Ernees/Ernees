@@ -52,7 +52,6 @@ Welcome to my GitHub profile, where I turn mate 🧉 into code 💻. I'm not the
 [![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=Ernees&repo=weather-app-js&theme=radical)](https://github.com/Ernees/weather-app-js)
 
 ## 🤝 Let's Connect!
-- GitHub: [github.com/Ernees](https://github.com/yourusername)
 - LinkedIn: [linkedin.com/in/ernesto-huerta-179853247/](https://linkedin.com/in/ernesto-huerta-179853247/)
 - Email: [huertaernesto04@gmail.com](mailto:huertaernesto04@gmail.com)
 
