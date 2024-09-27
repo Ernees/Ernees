@@ -30,8 +30,9 @@ Here are some ideas to get you started:
 - GitHub: [github.com/Ernees](https://github.com/Ernees)
 - LinkedIn: [linkedin.com/in/ErnestoHuerta]([https://linkedin.com/in/ErnestoHuerta](https://www.linkedin.com/in/ernesto-huerta-179853247/))
 - Email: [huertaernesto04@gmail.com](mailto:huertaernesto04@gmail.com)
--->
 # Hey there! 👋 I'm Erne
+-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=57d1c9&vCenter=true&width=500&lines=Hi+there+im+Erne;Welcome+to+my+GitHub!+;Turning+mate+into+code;Always+learning+something+new)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile, where I turn coffee ☕ into code 💻. I'm not the most experienced developer yet, but I’m determined, passionate, and always eager to learn. Every day is a new opportunity to improve my skills, and I’m on a mission to become a great full-stack developer.
 
@@ -50,8 +51,6 @@ Welcome to my GitHub profile, where I turn coffee ☕ into code 💻. I'm not th
 ## 🌟 Featured Repositories
 [![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=weather-app-js&theme=radical)](https://github.com/yourusername/weather-app-js)
 
-## 🌈 A little extra
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=57d1c9&vCenter=true&width=500&lines=Welcome+to+my+GitHub!+;Turning+coffee+into+code;Always+learning+something+new)](https://git.io/typing-svg)
 
 ## 📊 GitHub Stats
 ![Ernees GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ernees&show_icons=true&theme=radical)
