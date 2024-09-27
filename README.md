@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 - Email: [huertaernesto04@gmail.com](mailto:huertaernesto04@gmail.com)
 # Hey there! 👋 I'm Erne
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=57d1c9&vCenter=true&width=500&lines=Hi+there+im+Erne!;Welcome+to+my+GitHub!+;Turning+mate🧉+into+code;Always+learning+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=57d1c9&vCenter=true&width=500&lines=Hi+there!👋+I'm+Erne!;Welcome+to+my+GitHub!😊+;Turning+mate🧉+into+code;Always+learning+something+new✨)](https://git.io/typing-svg)
+![Coding GIF](https://media.giphy.com/media/3o7aCUc8b2vfdG9WxW/giphy.gif)
 
 Welcome to my GitHub profile, where I turn coffee ☕ into code 💻. I'm not the most experienced developer yet, but I’m determined, passionate, and always eager to learn. Every day is a new opportunity to improve my skills, and I’m on a mission to become a great Back-End developer.
 
