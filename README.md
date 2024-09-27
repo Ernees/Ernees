@@ -49,7 +49,7 @@ Welcome to my GitHub profile, where I turn mate 🧉 into code 💻. I'm not the
 
 ## 🌟 Featured Repositories
 [![CRUD App](https://github-readme-stats.vercel.app/api/pin/?username=Ernees&repo=CRUD-version-pro&theme=radical)](https://github.com/Ernees/CRUD-version-pro)
-[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=Ernees&repo=weather-app-js&theme=radical)](https://github.com/Ernees/weather-app-js)
+[![Validation App](https://github-readme-stats.vercel.app/api/pin/?username=Ernees&repo=form-validation-app-js&theme=radical)](https://github.com/Ernees/form-validation-app-js)
 
 ## 🤝 Let's Connect!
 - LinkedIn: [linkedin.com/in/ernesto-huerta-179853247/](https://linkedin.com/in/ernesto-huerta-179853247/)
