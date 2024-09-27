@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Ernees/Ernees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Erne
 
 🎓 I'm currently studying **University Technician in Programming** at **UTN**. I'm passionate about web development and I'm highly motivated to keep learning every day.
 
@@ -33,7 +31,7 @@ Here are some ideas to get you started:
 ![Ernees GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ernees&show_icons=true&theme=radical)
 
 ## 🌟 Featured Repositories
-[![weather-app-js](https://github-readme-stats.vercel.app/api/pin/?username=Ernees&repo=weather-app-js&theme=radical)](https://github.com/Ernees/weather-app-js))
+[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=Ernees&repo=weather-app-js&theme=radical)](https://github.com/Ernees/weather-app-js)
 
 [![Another Repo](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=anotherrepo&theme=radical)](https://github.com/yourusername/anotherrepo)
 
