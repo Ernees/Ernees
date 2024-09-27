@@ -49,9 +49,7 @@ Welcome to my GitHub profile, where I turn mate 🧉 into code 💻. I'm not the
 
 ## 🌟 Featured Repositories
 [![CRUD App](https://github-readme-stats.vercel.app/api/pin/?username=Ernees&repo=CRUD-version-pro&theme=radical)](https://github.com/Ernees/CRUD-version-pro)
-
-## 📊 GitHub Stats
-![Ernees GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ernees&show_icons=true&theme=radical)
+[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=Ernees&repo=weather-app-js&theme=radical)](https://github.com/Ernees/weather-app-js)
 
 ## 🤝 Let's Connect!
 - GitHub: [github.com/Ernees](https://github.com/yourusername)
