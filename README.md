@@ -30,14 +30,14 @@ Here are some ideas to get you started:
 - **Other**: Git, Docker, SQL, REST APIs
 
 ## 📊 GitHub Stats
-![Ernees GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Ernees GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ernees&show_icons=true&theme=radical)
 
 ## 🌟 Featured Repositories
-[![weather-app-js](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepo&theme=radical)](https://github.com/yourusername/yourrepo)
+[![weather-app-js](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepo&theme=radical)]([https://github.com/yourusername/yourrepo](https://github.com/Ernees/weather-app-js))
 
 [![Another Repo](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=anotherrepo&theme=radical)](https://github.com/yourusername/anotherrepo)
 
 ## 📫 How to reach me
 - GitHub: [github.com/Ernees](https://github.com/Ernees)
-- LinkedIn: [linkedin.com/in/ErnestoHuerta]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/ernesto-huerta-179853247/))
+- LinkedIn: [linkedin.com/in/ErnestoHuerta]([https://linkedin.com/in/ErnestoHuerta](https://www.linkedin.com/in/ernesto-huerta-179853247/))
 - Email: [huertaernesto04@gmail.com](mailto:huertaernesto04@gmail.com)
