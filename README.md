@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![Ernees GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ernees&show_icons=true&theme=radical)
 
 ## 🌟 Featured Repositories
-[![weather-app-js](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepo&theme=radical)]([https://github.com/yourusername/yourrepo](https://github.com/Ernees/weather-app-js))
+[![weather-app-js](https://github-readme-stats.vercel.app/api/pin/?username=Ernees&repo=weather-app-js&theme=radical)](https://github.com/Ernees/weather-app-js))
 
 [![Another Repo](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=anotherrepo&theme=radical)](https://github.com/yourusername/anotherrepo)
 
