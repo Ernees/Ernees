@@ -32,15 +32,14 @@ Here are some ideas to get you started:
 - Email: [huertaernesto04@gmail.com](mailto:huertaernesto04@gmail.com)
 # Hey there! 👋 I'm Erne
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=57d1c9&vCenter=true&width=500&lines=Hi+there+im+Erne;Welcome+to+my+GitHub!+;Turning+mate+into+code;Always+learning+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=57d1c9&vCenter=true&width=500&lines=Hi+there+im+Erne!;Welcome+to+my+GitHub!+;Turning+mate🧉+into+code;Always+learning+something+new)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile, where I turn coffee ☕ into code 💻. I'm not the most experienced developer yet, but I’m determined, passionate, and always eager to learn. Every day is a new opportunity to improve my skills, and I’m on a mission to become a great full-stack developer.
+Welcome to my GitHub profile, where I turn coffee ☕ into code 💻. I'm not the most experienced developer yet, but I’m determined, passionate, and always eager to learn. Every day is a new opportunity to improve my skills, and I’m on a mission to become a great Back-End developer.
 
 ## 🚀 About Me
 - 🎓 Currently studying **University Technician in Programming** at **UTN**.
 - 💻 Focused on learning **HTML**, **CSS**, **JavaScript**, **TypeScript**, and **Node.js**.
 - 🔥 Passionate about coding and always looking for new challenges.
-- 👾 When I'm not coding, I’m either learning about the latest tech or figuring out how to make my code a bit less buggy (debugging pro-level in progress 😅).
 - 🌟 The goal? Getting out there, gaining experience in the industry, and never stop growing!
 
 ## 🔧 Technologies & Tools
@@ -50,7 +49,6 @@ Welcome to my GitHub profile, where I turn coffee ☕ into code 💻. I'm not th
 
 ## 🌟 Featured Repositories
 [![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=weather-app-js&theme=radical)](https://github.com/yourusername/weather-app-js)
-
 
 ## 📊 GitHub Stats
 ![Ernees GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ernees&show_icons=true&theme=radical)
