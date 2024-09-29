@@ -44,7 +44,8 @@ Welcome to my GitHub profile, where I turn mate 🧉 into code 💻. I'm not the
 
 ## 🔧 Technologies & Tools
 - **Languages**: HTML, CSS, JavaScript, TypeScript
-- **Back-end**: Node.js, Express.js, 
+- **Back-end**: Node.js (Express.js)
+- **Framework**: Express.js 
 - **Other**: Git, Docker, SQL, REST APIs, AWS, Azure, Google Cloud
 
 ## 🌟 Featured Repositories
