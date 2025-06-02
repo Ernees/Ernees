@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=57d1c9&vCenter=true&width=500&lines=Hi+there!👋+I'm+Erne!;Welcome+to+my+GitHub!😊+;Turning+mate🧉+into+code;Always+learning+something+new✨)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile, where I turn mate 🧉 into code 💻. I'm not the most experienced developer yet, but I’m determined, passionate, and always eager to learn. Every day is a new opportunity to improve my skills, and I’m on a mission to become a great Back-End developer.
+Bienvenido a mi perfil de GitHub, donde el mate 🧉 se transforma en código 💻!
+
+Como futuro desarrollador, actualmente en el último año de la Tecnicatura Universitaria en Programación y cursando el Ciclo Básico Común (CBC) de Ingeniería en Informática en la UBA, quizás no soy el más experimentado aún. Sin embargo, mi determinación, la pasión por la tecnología y mi constante deseo de aprender son mi motor.
 # ¡Hola! Soy Ernesto Huerta 👋
 
 ### Desarrollador en formación con pasión por la tecnología y la innovación.
