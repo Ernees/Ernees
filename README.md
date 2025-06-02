@@ -1,8 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=57d1c9&vCenter=true&width=500&lines=Hola+a+todos!👋+Soy+Erne!;Bienvenidos+a+mi+GitHub!😊+;Siempre+aprendiendo+algo+nuevo✨)](https://git.io/typing-svg)
-
-Bienvenido a mi perfil de GitHub, donde el mate 🧉 se transforma en código 💻!
-
-Como futuro desarrollador, actualmente en el último año de la Tecnicatura Universitaria en Programación y cursando el Ciclo Básico Común (CBC) de Ingeniería en Informática en la UBA, quizás no soy el más experimentado aún. Sin embargo, mi determinación, la pasión por la tecnología y mi constante deseo de aprender son mi motor.
 # ¡Hola! Soy Ernesto Huerta 👋
 
 ### Desarrollador en formación con pasión por la tecnología y la innovación.
@@ -11,7 +7,7 @@ Como futuro desarrollador, actualmente en el último año de la Tecnicatura Univ
 
 ### 🚀 Sobre Mí
 
-Soy un entusiasta de la tecnología, actualmente cursando el **último año de la Tecnicatura Universitaria en Programación** y el **Ciclo Básico Común (CBC) de Ingeniería en Informática en la UBA**. Mi viaje en el mundo de la programación es impulsado por una curiosidad insaciable y el deseo de construir soluciones que impacten.
+Soy un entusiasta de la tecnología, actualmente cursando el **último año de la Tecnicatura Universitaria en Programación** y el **Ciclo Básico Común (CBC) de Ingeniería en Informática en la UBA**. Siempre me intrigó entender cómo funcionan las cosas, y la programación se convirtió en la herramienta perfecta para transformar esa curiosidad en soluciones concretas.
 
 Me encanta aprender y aplicar nuevas tecnologías, y estoy siempre en busca de desafíos que me permitan crecer y expandir mis conocimientos. Mi objetivo es combinar mi formación académica con proyectos prácticos para desarrollar software robusto y eficiente.
 
@@ -32,6 +28,7 @@ Aquí puedes ver algunas de las tecnologías y herramientas con las que me sient
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
@@ -54,14 +51,14 @@ Aquí puedes ver algunas de las tecnologías y herramientas con las que me sient
 
 ### 💻 Mis Proyectos Destacados
 
-Aquí te presento algunos de los proyectos en los que he trabajado y que reflejan mis habilidades y áreas de interés. ¡Te invito a explorarlos!
+Aquí te presento algunos de los proyectos en los que he trabajado y que reflejan mis habilidades y áreas de interés.
 
 #### **1. Sala de juegos**
 * **Descripción:** Sala de juegos en Angular con persistencia y autenticación de datos en supabase.  
-* **Tecnologías:** `Angular, Supabase`
+* **Tecnologías:** `Angular - Supabase`
 * **Características clave:** Navegación ilimitada entre componentes, chat en tiempo real usando el realtime de supabase, autenticación y validación de datos, tabla de puntajes, uso de guards y lazy loading.
 * **Repositorio:** https://github.com/Ernees/ERNESTOHUERTA-TP1-PROG42025C1.git
-* **Demo Online (si aplica):** [[Link a la demo en vivo]]https://ernestohuerta-tp-1-prog-42025-c1-p67i.vercel.app/bienvenida.
+* **Demo Online:** https://ernestohuerta-tp-1-prog-42025-c1-p67i.vercel.app/bienvenida.
 
 ---
 
@@ -78,10 +75,10 @@ Aquí te presento algunos de los proyectos en los que he trabajado y que refleja
 
 ### 📧 Conéctate Conmigo
 
-Estoy abierto a nuevas oportunidades y colaboraciones. ¡No dudes en contactarme!
+Estoy abierto a nuevas oportunidades y colaboraciones!
 
-* **LinkedIn:** [www.linkedin.com/in/ern-huert]
-* **Email:** [huertaernesto04@gmail.com]
+* **LinkedIn:** www.linkedin.com/in/ern-huert
+* **Email:** huertaernesto04@gmail.com
 
 ---
 
