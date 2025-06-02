@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=57d1c9&vCenter=true&width=500&lines=Hi+there!👋+I'm+Erne!;Welcome+to+my+GitHub!😊+;Turning+mate🧉+into+code;Always+learning+something+new✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=57d1c9&vCenter=true&width=500&lines=Hola+a+todos!👋+Soy+Erne!;Bienvenidos+a+mi+GitHub!😊+;Siempre+aprendiendo+algo+nuevo✨)](https://git.io/typing-svg)
 
 Bienvenido a mi perfil de GitHub, donde el mate 🧉 se transforma en código 💻!
 
