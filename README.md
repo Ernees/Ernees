@@ -61,7 +61,7 @@ Aquí te presento algunos de los proyectos en los que he trabajado y que refleja
 
 ---
 
-### 🌱 Mi Viaje Académico
+### 🌱 Mis Estudios
 
 * **Tecnicatura Universitaria en Programación**
     * Universidad Tecnologica Nacional | Facultad Regional Avellaneda
@@ -72,7 +72,7 @@ Aquí te presento algunos de los proyectos en los que he trabajado y que refleja
 
 ---
 
-### 📧 Conéctate Conmigo
+### 📧 Conectate Conmigo
 
 Estoy abierto a nuevas oportunidades y colaboraciones!
 
