@@ -78,10 +78,3 @@ Estoy abierto a nuevas oportunidades y colaboraciones!
 
 * **LinkedIn:** www.linkedin.com/in/ern-huert
 * **Email:** huertaernesto04@gmail.com
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ernees&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ernees&layout=compact&theme=radical)
-
----
