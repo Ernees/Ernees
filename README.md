@@ -64,7 +64,7 @@ Aquí te presento algunos de los proyectos en los que he trabajado y que refleja
 - Tabla de puntajes.
 - Uso de guards para rutas protegidas.
 
-**Repositorio:** [ERNESTOHUERTA-TP1-PROG42025C1](https://github.com/Ernees/ERNESTOHUERTA-TP1-PROG42025C1.git)
+**Repositorio:** [Sala de Juegos - Frontend](https://github.com/Ernees/ERNESTOHUERTA-TP1-PROG42025C1.git)
 
 ---
 
