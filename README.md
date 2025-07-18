@@ -77,8 +77,9 @@ Aquí te presento algunos de los proyectos en los que he trabajado y que refleja
 - Publicaciones con título, mensaje e imagen opcional.
 - Sistema de "Me gusta" y comentarios en cada publicación.
 - Diseño consistente, navegación fluida y mensajes claros para el usuario.
-
+  
 **Repositorio (frontend + backend):** [Red Social - Fullstack](https://github.com/Ernees/ERNESTOHUERTA-TP2-PROG42025C1.git)
+
 ---
 
 ### 🌱 Mis Estudios
