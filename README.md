@@ -48,17 +48,37 @@ Aquí puedes ver algunas de las tecnologías y herramientas con las que me sient
 
 ---
 
-### 💻 Mis Proyectos Destacados
+## 💻 Proyectos Destacados
 
 Aquí te presento algunos de los proyectos en los que he trabajado y que reflejan mis habilidades y áreas de interés.
 
-#### **1. Sala de juegos**
-* **Descripción:** Sala de juegos en Angular con persistencia y autenticación de datos en supabase.  
-* **Tecnologías:** `Angular - Supabase`
-* **Características clave:** Navegación ilimitada entre componentes, chat en tiempo real usando el realtime de supabase, autenticación y validación de datos, tabla de puntajes, uso de guards y lazy loading.
-* **Repositorio:** https://github.com/Ernees/ERNESTOHUERTA-TP1-PROG42025C1.git
-* **Demo Online:** https://ernestohuerta-tp-1-prog-42025-c1-p67i.vercel.app/bienvenida.
+---
 
+### 🎮 Sala de Juegos  
+**Descripción:** Sala de juegos desarrollada con Angular, que incluye autenticación de usuarios y persistencia de datos utilizando Supabase.  
+**Tecnologías:** Angular · Supabase  
+**Características clave:**
+- Navegación entre componentes con Lazy Loading.
+- Chat en tiempo real utilizando el realtime de Supabase.
+- Autenticación y validación de datos.
+- Tabla de puntajes.
+- Uso de guards para rutas protegidas.
+
+**Repositorio:** [ERNESTOHUERTA-TP1-PROG42025C1](https://github.com/Ernees/ERNESTOHUERTA-TP1-PROG42025C1.git)
+
+---
+
+### 🌐 Red Social  
+**Descripción:** Aplicación fullstack tipo red social con frontend en Angular y backend en NestJS, todo dentro de un único repositorio.  
+**Tecnologías:** Angular · NestJS · MongoDB · JWT  
+**Características clave:**
+- Registro y login de usuarios autenticado con JWT.
+- API RESTful desarrollada en NestJS con manejo adecuado de códigos de estado HTTP (201, 400, 401, etc.).
+- Publicaciones con título, mensaje e imagen opcional.
+- Sistema de "Me gusta" y comentarios en cada publicación.
+- Diseño consistente, navegación fluida y mensajes claros para el usuario.
+
+**Repositorio (frontend + backend):** [Red Social - Fullstack](https://github.com/Ernees/ERNESTOHUERTA-TP2-PROG42025C1.git)
 ---
 
 ### 🌱 Mis Estudios
